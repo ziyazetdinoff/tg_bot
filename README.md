@@ -12,3 +12,8 @@
 - `TELEGRAM_TOKEN` - токен телеграм бота, его можно получить с помощью телеграм бота @BotFather
 - `GOOGLE_API_KEY` - апи токен от гугла, который нужен для взаимодействия с гугл таблицей. О том как его получить можно почитать здесь: https://developers.google.com/workspace/guides/create-credentials#api-key 
 - `SPREADSHEET_ID` - id таблицы, он находится в ссылке на таблицу
+
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
